@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" href="https://elmarcz.github.io/Login-With-Flexbox/">Login With Mysql</h1>
+  <h1 align="center" href="https://elmarcz.github.io/Login-With-Flexbox/">Login-With-Flexbox</h1>
   <a href="https://elmarcz.github.io/Login" target="blank"><img src="img/Img.png"/></a>
 </p>
 
