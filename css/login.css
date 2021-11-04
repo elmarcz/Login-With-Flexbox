@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 57em;
+  height: calc(100vh - 70px);
   overflow-y: hidden;
 }
 
@@ -80,4 +80,29 @@
 
   border: transparent;
   cursor: pointer;
+}
+
+/*  FOOTER  */
+
+footer {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1e1d1d;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+
+  
+}
+
+footer .Marc {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #8cc6ee;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
 }
