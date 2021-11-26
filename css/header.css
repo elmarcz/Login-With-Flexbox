@@ -22,10 +22,8 @@
 .logo {
   height: 40px;
   width: 40px;
-
   border-radius: 100%;
-
-  transition: all 0.5s;
+  transition: all 300ms;
 }
 
 .nav-container {
@@ -62,7 +60,5 @@ ul li a:hover {
 
 .logo:hover {
   position: relative;
-  padding: 4px;
-  background: #ffffff;
-  border-radius: 100%;
+  transform: scale(1.1);
 }
